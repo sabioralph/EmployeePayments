@@ -1,8 +1,5 @@
 /**
- * Name: Ralph Sabio
- * ID:991646078
- * Assigment 3
- * This is the Address class
+ * 
  * 
  * 
  */
@@ -67,3 +64,4 @@ public class Address {
         return this.streetNumber+", "+this.street + ", " + this.city + ", " + this.state + " " + this.zipCode;
     }
 }
+
