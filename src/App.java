@@ -1,7 +1,5 @@
 /**
- * Name: Ralph Sabio
- * Date: March 27 2025
- * Application for the employee program
+ *
  */
 import java.util.ArrayList;
 
@@ -63,5 +61,6 @@ public class App {
         }
     }
 }
+
 
 
